@@ -34,3 +34,20 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+*Library*:
+
+- Prisma (SQLite DB)
+
+- NextUI = CSS
+
+- Next-auth / authjs (authentication => sign in, sign up, login...) and you can sign in with github OAuth
+
+- Zod (Form Validations, Scheema ((rules for forms...)))
+
+. @auth/core@0.81.1 
+. @auth/prisma-adapter@1.0.6
+. next-auth@5.0.0-beta.3
+
+<!-- EPISODIO 80 REACT & NEXT.JS COURSE -->
